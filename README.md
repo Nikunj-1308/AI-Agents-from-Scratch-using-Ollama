@@ -201,35 +201,6 @@ The **Multi-Agent AI App with Ollama** is a Python-based application leveraging 
   - `multi_agent_system.log`: Contains detailed logs for monitoring and debugging.
 - **Configuration:** Logging is handled using the `loguru` library, configured in `utils/logger.py`.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the Repository**
-2. **Create a Feature Branch**
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-3. **Commit Your Changes**
-
-   ```bash
-   git commit -m "Add your feature"
-   ```
-
-4. **Push to the Branch**
-
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-5. **Open a Pull Request**
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - [Ollama](https://ollama.com/) for providing the platform to run LLaMA models locally.
